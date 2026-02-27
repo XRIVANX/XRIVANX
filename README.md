@@ -14,7 +14,19 @@
 -----------------------------------------------
 
 - ⚡ Fun fact **I am still learning**
-
+- 🎮 I love games
+- 👶 I stared coding at 18
+- 🔭 First i discoverd coding from Vanilla Minecraft Mods
+- 🎨 Digital Artist
+- 🖌️ Animator
+- 💭 My dream is to be a Digital Artist and a Develoer (makes Art, Games and Web/Mobile Apps)
+- 🧩 My coding journey
+  --No background at coding 1st Year College
+  --Learning **HTML** **CSS** **JS**
+  --Learning **JAVA** **PYTHON** **C#**
+  --Learning **LARAVEL** **FLUTTER**
+  --Learning **REACT JS** **TAILWIND CSS**
+  Manhwa reader,Likes Korean Food,Cartoons,Anime,Games 
 -----------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
