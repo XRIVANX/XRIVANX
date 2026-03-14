@@ -15,8 +15,7 @@
  <div align="center">
   <p>
     👋 Hi there! I’m <strong>Ivan Requerme</strong> <img src="https://img.shields.io/badge/AKA-Rivan-ffffff00?style=flat&labelColor=1877F2" alt="AKA:Rivan" height="17" style="vertical-align: middle;" /> a <strong>3rd year Bachelor of Science in Information Technology</strong> student from the <strong>Philippines 🇵🇭</strong>!<br/>
-    I’m <strong>Bisaya</strong> (that’s why some of my code comments are in Bisaya, ehe 😅).
-  </p>
+    I’m <strong>Bisaya</strong>
 
 ---
 
